@@ -1,0 +1,5 @@
+require('dotenv').config({path:`${__dirname}/../../.env`})
+
+module.exports = {
+    'env' : process.env.NODE_ENV === 'production' ? process.env.DB_ENVIRONMENT : process.env.DB_ENVIRONMENT_LOCAL,
+}
