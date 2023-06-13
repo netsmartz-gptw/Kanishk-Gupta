@@ -1,0 +1,25 @@
+.content {
+	padding: 32px;
+}
+.header {
+ 	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.header-title {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.title {
+	padding-left: 8px;
+}
+.paper-container {
+	margin-top: 32px;
+	padding: 32px;
+}
+.grid-container {
+	padding-top: 32px;
+}

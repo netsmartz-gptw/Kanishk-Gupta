@@ -1,0 +1,19 @@
+
+html {
+    /* background-color: lavenderblush; */
+}
+
+.layout-container {
+    margin: 0 auto;
+    /* max-width: 700px; */
+    padding: 8px;
+    padding-top: 16px;
+}
+.title {
+    margin-bottom: 16px;
+    display: inline-block;
+    font-style: normal;
+}
+.link {
+    float: right;
+}
